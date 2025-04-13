@@ -1,0 +1,19 @@
+{
+  "name": "qacart_postman",
+  "version": "1.0.0",
+  "description": "to test api using postman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "json-server-auth": "^2.1.0"
+  },
+  "dependencies": {
+    "newman-reporter-htmlextra": "^1.23.1",
+    "uuid": "^11.1.0"
+  }
+}

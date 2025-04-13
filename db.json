@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Postman",
+      "description": "Full postman course from zero in Arabic"
+    },
+    {
+      "id": "2",
+      "title": "Selenium",
+      "description": "Full Selenium course from zero in Arabic"
+    },
+    {
+      "id": "3",
+      "title": "Cypress",
+      "description": "Full Cypress course from zero in Arabic"
+    },
+    {
+      "id": "4",
+      "title": "appium",
+      "description": "Full appium course from zero in Arabic"
+    },
+    {
+      "id": "5",
+      "title": "java",
+      "description": "Full java course from zero in Arabic"
+    },
+    {
+      "id": "3582",
+      "title": "javas",
+      "description": "Full javas course from zero in Arabic"
+    }
+  ]
+}
